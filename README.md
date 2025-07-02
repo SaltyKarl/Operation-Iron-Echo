@@ -1,27 +1,27 @@
-### Operation : Iron Echo
+# Operation : Iron Echo
 
 ## WIP
 Things that have already started but are not finished
 
-# Art
+### Art
 - Mechanoids
 - Turrets
 - Vehicle wrecks
   
-# Code
+### Code
 - None
 
 ## To do
 Things that have been planned but have not started yet
 
-# Art
+### Art
 - Weapons
 - Mechanoid crafting spot
 - Loot boxes
 - Loots
 - UI images for abilities and world quests
   
-# Code
+### Code
 - Core
 - Mechanoids
 - Mechanoid abilities
